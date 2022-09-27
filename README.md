@@ -2,26 +2,28 @@
 ## *This is a repo for the Technical Interaction Design course at IT-University of Copenhagen*
 
 The repository consists of the following: 
-- [ ] **Lecture notes**
-- [ ] **Exercises**
-- [ ] **Solutions**
-- [ ] **Exams**
-- [ ] **Solutions to exams**
+- **Course Information**
+- **Lectures**
+- **Assignments**
+- **Exercises**
+- **Exam**
 
-## Lecture notes
-The lecture notes are written in *Markdown* and can be found in the folder `lecture_notes`. 
+## Course Information
+The exams are written in *...* and can be found in the folder `Course Information`.
+
+## Lectures
+The lecture notes are written in *Markdown* and can be found in the folder `Lectures`. 
+
+## Assignments
+The solutions to the exams are written in *...* and can be found in the folder `Assignments`.
 
 ## Exercises
-The exercises are written in *...* and can be found in the folder `exercises`.
+The exercises are written in *...* and can be found in the folder `Exercises`.
 
-## Solutions
-The solutions are written in *...* and can be found in the folder `solutions`.
+## Exam
+The solutions are written in *...* and can be found in the folder `Exam`.
 
-## Exams
-The exams are written in *...* and can be found in the folder `exams`.
-
-## Solutions to exams
-The solutions to the exams are written in *...* and can be found in the folder `solutions_to_exams`.
+---
 
 Resources: 
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
