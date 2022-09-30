@@ -1,5 +1,5 @@
 ---
-aliases: [TID]
+aliases: []
 ---
 
 | **FUN**     | [[Introductory Programming\|IP]] | [[Software Engineering\|SE]]          | [[Discrete Mathematics\|DM]]          | [[Introduction to Database Systems\|IDBS]] | [[Algorithms and Data Structures\|ADS]] | [[How to make (almost) anything\|MAKE]] |
@@ -12,8 +12,4 @@ aliases: [TID]
 
 ---
 
-# Technical Interaction Design
-
-> [!todo]
-> Her er hvad der skal ske
-
+# TID Lectures

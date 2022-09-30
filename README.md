@@ -1,29 +1,5 @@
 # Technical Interaction Design
+
 ## *This is a repo for the Technical Interaction Design course at IT-University of Copenhagen*
 
-The repository consists of the following: 
-- **Course Information**
-- **Lectures**
-- **Assignments**
-- **Exercises**
-- **Exam**
-
-## Course Information
-The exams are written in *...* and can be found in the folder `Course Information`.
-
-## Lectures
-The lecture notes are written in *Markdown* and can be found in the folder `Lectures`. 
-
-## Assignments
-The solutions to the exams are written in *...* and can be found in the folder `Assignments`.
-
-## Exercises
-The exercises are written in *...* and can be found in the folder `Exercises`.
-
-## Exam
-The solutions are written in *...* and can be found in the folder `Exam`.
-
----
-
-Resources: 
-- [Markdown](https://guides.github.com/features/mastering-markdown/)
+### Start here: [Technical Interaction Design](https://github.com/sebastianromano/Technical-Interaction-Design/blob/dc33dbe47704dd9b70bcf6b0d92378eff5a12cf8/Technical%20Interaction%20Design.md)
