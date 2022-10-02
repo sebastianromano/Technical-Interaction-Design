@@ -16,7 +16,9 @@ aliases: [TID]
 
 > [!todo]
 > Group
-> - Look at group thing + mail from teacher
+> - Look at group thing
+> - Mail from teacher
+> - [[TID Lecture 0 - Pre-TID Curriculum]]
 
 ## Information
 |         | When                  | Where   |
@@ -36,6 +38,7 @@ aliases: [TID]
 
 | lecture | date           | key | theme          |                         | topic                                                                                                  | read | pages |                         | assignment       | deadline |
 | ------- | -------------- | --- | -------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ | ---- | ----- | ----------------------- | ---------------- | -------- |
+| 0       |                |     | Pre-TID        | <input type="checkbox"> | [[TID Lecture 0 - Pre-TID Curriculum\|Pre-TID]]                                                        |      |       |                         |                  |          |
 | 1       | [[2022-08-30]] |     | Introduction   | <input type="checkbox"> | [[TID Lecture 1 - Introduction to TID - Design Thinking\|Intro]]                                       |      |       |                         |                  |          |
 | 2       | [[2022-09-06]] |     | Design         | <input type="checkbox"> | [[TID Lecture 2 - Usability\|Usability]]                                                               |      |       | <input type="checkbox"> | Empathy Research |          |
 | 3       | [[2022-09-13]] |     | ↓              | <input type="checkbox"> | [[TID Lecture 3 - Defining problem domain - Gestalt principles\|Defining problem domain]]              |      |       | <input type="checkbox"> | Personas         |          |
