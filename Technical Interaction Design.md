@@ -25,8 +25,22 @@ aliases: [TID]
 | ------- | --------------------- | ------- |
 | Lecture | Tuesday 14:00 - 18:00 | 2A12-14 | 
 
+About the course
+- foundation of constructing user interfaces for computer systems
+	- provides a high-level overview of the essential concepts related to interaction design and the fundamental programming patterns commonly used in programming user interfaces
+
+Project
+- course is designed around a practical project
+	- completed in teams of up to four people
+
+- During the TID course, we will be making a web application from scratch to MVP
+- combine knowledge from design theory with technical skills
+	- using the web technologies HTML, CSS, and JavaScript
+		- Look at [[TID-0_Pre-TID Curriculum.pdf]]
+
 ### Links
 - [LearnIT](https://learnit.itu.dk/course/view.php?id=3021339)
+- [Miro board for group](https://miro.com/app/board/uXjVPbE3AWs=/)
 
 ### Course material
 - 
@@ -44,7 +58,7 @@ aliases: [TID]
 | 3       | [[2022-09-13]] |     | ↓              | <input type="checkbox"> | [[TID Lecture 3 - Defining problem domain - Gestalt principles\|Defining problem domain]]              |      |       | <input type="checkbox"> | [[TID_Assignment 2_ Defining the problem domain.pdf\|Personas]]    |          |
 | 4       | [[2022-09-20]] |     | ↓              | <input type="checkbox"> | [[TID Lecture 4 - Prototyping (LoFi) - Usability Testing\|Prototyping (LoFi)]]                         |      |       | <input type="checkbox"> | [[TID_Assignment 3_ Ideation and prototyping.pdf\|LoFi prototype]] |          |
 | 5       | [[2022-09-27]] |     | Implementation | <input type="checkbox"> | [[TID Lecture 5 - The React Framework - GitHub\|React, GitHub]]                                        |      |       |                         |                                                                    |          |
-| 6       | [[2022-10-04]] |     | Design         | <input type="checkbox"> | [[TID Lecture 6 - Design Systems - Prototyping (HiFi)\|Prototyping (HiFi)]]                            |      |       | <input type="checkbox"> | HiFi prototype                                                     |          |
+| 6       | [[2022-10-04]] |     | Design         | <input type="checkbox"> | [[TID Lecture 6 - Design Systems - Prototyping (HiFi)\|Prototyping (HiFi)]]                            |      |       | <input type="checkbox"> | [[[[TID_Assignment 3B.pdf\|HiFi prototype]]                        |          |
 | 7       | [[2022-10-11]] |     | Evaluation     | <input type="checkbox"> | [[TID Lecture 7 - Presentations and Course Evaluation\|Presentations]]                                 |      |       |                         |                                                                    |          |
 |         |                |     | Fall break     |                         |                                                                                                        |      |       |                         |                                                                    |          |
 | 8       | [[2022-10-25]] |     | Implementation | <input type="checkbox"> | [[TID Lecture 8 - Component communication - Hooks - Router - File Structure\|Component communication]] |      |       | <input type="checkbox"> | Sprint 1                                                           |          |
@@ -54,3 +68,4 @@ aliases: [TID]
 | 12      | [[2022-11-22]] |     | Evaluation     | <input type="checkbox"> | [[TID Lecture 12 - Presentations and Course Evaluation\|Presentations]]                                |      |       | <input type="checkbox"> | Sprint 3                                                           |          |
 | 13      | [[2022-11-29]] |     | Implementation | <input type="checkbox"> | [[TID Lecture 13 - We'll see\|We'll see]]                                                              |      |       |                         |                                                                    |          |
 | 14      | [[2022-12-06]] |     | ↓              | <input type="checkbox"> | [[TID Lecture 14 - We'll see\|We'll see]]                                                              |      |       | <input type="checkbox"> | Final report                                                       |          |
+
