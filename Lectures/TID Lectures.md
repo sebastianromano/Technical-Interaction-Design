@@ -13,3 +13,5 @@ aliases: []
 ---
 
 # TID Lectures
+
+![[Technical Interaction Design#Overview|TID]]

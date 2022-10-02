@@ -13,3 +13,5 @@ aliases: []
 ---
 
 # TID Assignments
+
+![[Technical Interaction Design#Overview|TID]]
