@@ -18,6 +18,8 @@ aliases: [TID]
 > - [x] Look at group thing
 > - [x] Mail from teacher
 > - [ ] [[TID Lecture 0 - Pre-TID Curriculum]]
+> - Next week: 3 groups in one room and each group presents what they have done
+> - Group: Make 
 
 ## Links
 - [LearnIT](https://learnit.itu.dk/course/view.php?id=3021339)
