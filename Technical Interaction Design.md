@@ -19,7 +19,10 @@ aliases: [TID]
 > - [x] Mail from teacher
 > - [ ] [[TID Lecture 0 - Pre-TID Curriculum]]
 > - Next week: 3 groups in one room and each group presents what they have done
-> - Group: Make 
+> - Group
+> 	- [ ] Communication
+> 	- [ ] Do the assignment before weekend
+> 	- [ ] Write group about Berlin?
 
 ## Links
 - [LearnIT](https://learnit.itu.dk/course/view.php?id=3021339)
@@ -42,6 +45,10 @@ Project
 - combine knowledge from design theory with technical skills
 	- using the web technologies HTML, CSS, and JavaScript
 		- Look at [[TID-0_Pre-TID Curriculum.pdf]]
+
+## Useful websites
+- [Adobe Colors](https://color.adobe.com/create/color-wheel)
+- [Font pairing](https://fontjoy.com)
 
 ## Overview
 
