@@ -21,7 +21,7 @@ aliases: [TID]
 > - Next week: 3 groups in one room and each group presents what they have done
 > - Group
 > 	- [ ] Communication
-> 	- [ ] Do the assignment before weekend
+> 	- [x] Do the assignment before weekend
 > 	- [ ] Write group about Berlin?
 
 ## Links
