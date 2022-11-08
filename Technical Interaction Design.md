@@ -15,18 +15,14 @@ aliases: [TID]
 # Technical Interaction Design
 
 > [!todo]
-> - [x] Look at group thing
-> - [x] Mail from teacher
 > - [ ] [[TID Lecture 0 - Pre-TID Curriculum]]
-> - Next week: 3 groups in one room and each group presents what they have done
 > - Group
-> 	- [ ] Communication
-> 	- [x] Do the assignment before weekend
 > 	- [ ] Write group about Berlin?
 
 ## Links
 - [LearnIT](https://learnit.itu.dk/course/view.php?id=3021339)
-- [Miro board for group](https://miro.com/app/board/uXjVPbE3AWs=/)
+- [Group Git - github.itu.dk](https://github.itu.dk/rfmo/GoTChat)
+- [Miro board for group formation](https://miro.com/app/board/uXjVPbE3AWs=/)
 
 ## Information
 |         | When                  | Where   |
